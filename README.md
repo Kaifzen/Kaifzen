@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaif!
-- 👀 I’m interested in Data Science and Machine Learning/AI!
-- 🌱 I’m currently pursuing my engineering in Computer Science
-- 📫 How to reach me -> kaifzen20@gmail.com | https://www.linkedin.com/in/mdkur/
+- ⚙️ CSE graduate trying to understand tech
+- 👀 AIML is cool
+- 📫 kaifzen20@gmail.com | https://www.linkedin.com/in/mdkur/
 
 <!---
 Kaifzen/Kaifzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
