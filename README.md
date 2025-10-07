@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaif!
-- ⚙️ CSE graduate trying to understand tech
+- ⚙️ CSE geek trying to understand tech
 - 👀 AIML is cool
 - 📫 kaifzen20@gmail.com | https://www.linkedin.com/in/mdkur/
 
