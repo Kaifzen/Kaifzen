@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaif!
-- ⚙️ CSE geek trying to understand tech
-- 👀 AIML is cool
+- ⚙️ Exploring new workflows
+- 💻 AIML enthusiast
 - 📫 kaifzen20@gmail.com | https://www.linkedin.com/in/mdkur/
 
 <!---
